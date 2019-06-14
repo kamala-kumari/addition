@@ -22,6 +22,7 @@ public class addition {
 	      System.out.println("narasimha");
 	      System.out.println("Hello world");
 	      System.out.println("123456");
+	      System.out.println("dufhui");
 	      
 	    
 	      
